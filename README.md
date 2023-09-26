@@ -1,2 +1,2 @@
 # LogicadeProgramacao
-Esse Repositório é para demonstrar minha habilidade prática em Lógica de Programação vou criar uma pasta com códigos simples criados por mim como uma forma de demonstrar na prática lógica de programação.
+Esse Repositório é para demonstrar minha habilidade prática em Lógica de Programação vou criar uma pasta com códigos simples criados por mim como uma forma de demonstrar na prática lógica de programação. Procurei deixar os nomes das variáveis mais autoexplicativo possível para que qualquer pessoa que venha acessar esse código consiga entender a lógica implementada com facilidade. Os nomes do nosso projeto está em camelCase que é uma linguagem comum para programadores e busco fazer mais commits ao longo dos próximos dias. 
