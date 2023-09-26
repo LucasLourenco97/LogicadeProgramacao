@@ -1,3 +1,6 @@
+Meu Linkedin: https://www.linkedin.com/in/lucas-lourenco-devopsjavacloud/
+
+
 # Lógica de Programação
 
 Este repositório tem como objetivo demonstrar minha habilidade prática em lógica de programação. Nele, você encontrará uma pasta com códigos simples criados por mim, demonstrando a aplicação da lógica de programação na prática. Procurei escolher nomes de variáveis autoexplicativos para que qualquer pessoa que acesse esse código possa entender facilmente a lógica implementada. Os nomes das variáveis estão em camelCase, uma convenção comum entre programadores. Pretendo fazer mais commits ao longo dos próximos dias.
